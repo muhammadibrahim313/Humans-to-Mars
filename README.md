@@ -153,5 +153,5 @@ streamlit run app.py
 
 ---
 
-<sub>Join us in making history. The Red Planet awaits. 🌎 → 🔴</sub>
+<sub>Join us in making history. The Red Planet awaits.. 🌎 → 🔴</sub>
 </div>
